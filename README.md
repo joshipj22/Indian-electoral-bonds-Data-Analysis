@@ -35,3 +35,10 @@ The teller or bank official who handled the transaction
 **Status:**
 Indicates whether the bond was successfully redeemed
 The State Bank of India (SBI) submitted
+
+**Date of\rPurchase:**
+Date on which the electoral bonds were purchased by a private entity for the consumption of the political party
+
+**Name of the Purchaser:**
+Any private entity or corporate house that purchases the electoral bond i.e. donating money 
+**
