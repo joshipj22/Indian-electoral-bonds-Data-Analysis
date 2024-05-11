@@ -54,4 +54,5 @@ Date on which the electoral bonds were purchased by a private entity for the con
 
 **Name of the Purchaser:**
 Any private entity or corporate house that purchases the electoral bond i.e. donating money 
-**
+
+etc**
