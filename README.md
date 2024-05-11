@@ -12,7 +12,10 @@ In its application to the apex court on 4 March, two days before the deadline se
 
 # How was this obtained?
 It was extracted from the PDFs released by the Election Commission of India https://www.eci.gov.in/disclosure-of-electoral-bonds
-Electoral bonds are a financial instrument introduced in India to facilitate transparent political funding. Let’s break down the columns related to electoral bonds:
+Electoral bonds are a financial instrument introduced in India to facilitate transparent political funding.
+The inormation is fragmented into 2 tables 
+**Puracase details :** https://www.eci.gov.in/eci-backend/public/api/download?url=LMAhAK6sOPBp%2FNFF0iRfXbEB1EVSLT41NNLRjYNJJP1KivrUxbfqkDatmHy12e%2FzBiU51zPFZI5qMtjV1qgjFmSC%2FSz9GPIId9Zlf4WX9G%2FfwrEDQFGDuen%2FyU1C5gVqkKaRPDqHSBCdx74poKJJ7Q%3D%3D
+Let’s break down the columns related to electoral bonds:
 
 **Serial Number (Sr No.):**
 This column provides a unique reference number for each electoral bond. It helps in indexing and tracking the bonds.
