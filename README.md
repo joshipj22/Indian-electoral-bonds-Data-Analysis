@@ -1,9 +1,17 @@
 # Indian-electoral-bonds-Data-Analysis
 Electoral Bonds were a mode of funding for political parties in India from their introduction in 2017 to curb black money in Indian politics until they were struck down as unconstitutional by the Supreme Court on February 15, 2024 for lack of transparency. 
+
+In its judgment dated 15 February, the Supreme Court had ordered that by 6 March, SBI must submit the details of the electoral bonds purchased between 12 April 2019 and 15 February 2024, to the Election Commission.
+
+The court said that the details, which must include the date of purchase of each electoral bond, the donor's name, which party they donated to, and the denomination of the electoral bond purchased, must be made public by the EC by 13 March.
+
+In its application to the apex court on 4 March, two days before the deadline set by the court, the SBI said that 22,217 electoral bonds were issued to various parties between 12 April 2019 to 15 February 2024.
+
+**The SBI said that since the redeemed bonds were sent to the main SBI branch in Mumbai by the authorised branches, it has to decode and compile 44,434 (22,217x2) information sets and needed atleast 3 months before it could establish a money trail between the benefactors and beneficiaries.** 
+
+
 # How was this obtained?
 It was extracted from the PDFs released by the Election Commission of India https://www.eci.gov.in/disclosure-of-electoral-bonds
-
-
 Electoral bonds are a financial instrument introduced in India to facilitate transparent political funding. Let’s break down the columns related to electoral bonds:
 
 **Serial Number (Sr No.):**
